@@ -1,0 +1,21 @@
+{
+  "name": "techpurr.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "sync-to": "sudo gulp sync-to",
+    "sync-from": "sudo gulp sync-from"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://caaatpro@bitbucket.org/caaat/techpurr.ru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/caaat/techpurr.ru#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-using": "^0.1.1"
+  }
+}
